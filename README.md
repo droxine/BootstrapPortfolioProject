@@ -1,25 +1,24 @@
 # Build a Portfolio Using Bootstrap
 
-Welcome to the Bootstrap Portfolio Project! For this project, you'll be creating a personal web page to show off your work. We will test your HTML knowledge and then it will be up to you to use CSS to style your own page and make it unique.
+Welcome to the Bootstrap Portfolio Project! For this project, I've created a web page with the teaching of CodeSchool.
 
-You’ll build a personal web page using Bootstrap, which should look similar to this one:
+This is a personal web page using Bootstrap, which looks similar to this one:
 
 ![Bootstrap Portfolio](http://courseware.codeschool.com.s3.amazonaws.com/projects/build-a-portfolio-using-bootstrap.png)
 
-## What You’ll Use
+## What I've Used
 
 - HTML
+- CSS
 - Bootstrap
 
-We'll start you off with a few CSS styles that you can build on that should help get things started.
+## What I've Learned
 
-## What You’ll Learn
-
-You will further your Bootstrap skills, feel more comfortable writing Bootstrap code in a real-world scenario, and have the option of using this project as your real portfolio page.
+Improve my Bootstrap skills, feel more comfortable writing Bootstrap code in a real-world scenario, and have the option of using this project as my real portfolio page.
 
 ## Live Demo
 
-[Check out this link](https://codeschool-project-demos.github.io/BootstrapPortfolioProject/) to see a working version of this project. Feel free to customize your project even further by adding more custom CSS styles to it once you've completed the steps.
+[Check out this link](https://codeschool-project-demos.github.io/BootstrapPortfolioProject/) to see a working version of this project created by CodeSchool. Feel free to customize your project even further by adding more custom CSS styles to it once you've completed the steps. Just fork it and copy it to your Github and start creating one customized with your own personal ideas.
 
 ## Setup
 
