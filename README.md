@@ -1,6 +1,6 @@
-# Build a Portfolio Using Bootstrap
+# Portfolio Using Bootstrap
 
-Welcome to the Bootstrap Portfolio Project! For this project, I've created a web page with the teaching of CodeSchool.
+Welcome to the Stéphane Angeles's Portfolio! For this project, I've created a web page with the help of CodeSchool.
 
 This is a personal web page using Bootstrap, which looks similar to this one:
 
@@ -11,6 +11,10 @@ This is a personal web page using Bootstrap, which looks similar to this one:
 - HTML
 - CSS
 - Bootstrap
+
+## Github Pages (Direct Link)
+
+https://github.com/droxine/Portfolio.git
 
 ## What I've Learned
 
