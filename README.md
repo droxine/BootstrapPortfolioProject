@@ -14,7 +14,7 @@ This is a personal web page using Bootstrap, which looks similar to this one:
 
 ## Github Pages (Direct Link)
 
-https://github.com/droxine/Portfolio.git
+https://droxine.github.io/Portfolio/src/index.html
 
 ## What I've Learned
 
